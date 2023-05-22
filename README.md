@@ -26,6 +26,3 @@ https://openweathermap.org/current
 
 
 
-### How can I appreciate this repo? ###
-
-* By giving this repo a 🌟
