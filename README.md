@@ -4,7 +4,7 @@
     <img width="220"  src="src/assets/images/logo.png">
 </p>
 
-![Screenshot](src/assets/images/localhost_3000_.png)
+![Screenshot](src/assets/images)
 
 
 ### Demo - Deployed over Github Pages 
