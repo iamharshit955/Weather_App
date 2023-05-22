@@ -4,7 +4,7 @@
     <img width="220"  src="src/assets/images/logo.png">
 </p>
 
-![Screenshot](src/assets/images)
+![Screenshot](https://github.com/iamharshit955/Weather_App/blob/master/src/assets/images/Screenshot%202023-05-22%20192753.jpg)
 
 
 ### Demo - Deployed over Github Pages 
